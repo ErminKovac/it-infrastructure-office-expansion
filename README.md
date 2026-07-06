@@ -48,4 +48,4 @@ no network diagram, no device list, no existing infrastructure documentation.
 ## Author
 
 Ermin Kovač
-[LinkedIn](https://linkedin.com/in/ermin-kovac) · [GitHub](https://github.com/ErminKovac)
+[LinkedIn](https://www.linkedin.com/in/ermin-kova%C4%8D-3223822aa) · [GitHub](https://github.com/ErminKovac)
