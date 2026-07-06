@@ -43,7 +43,6 @@ no network diagram, no device list, no existing infrastructure documentation.
 - Security planning (AD/GPO, firewall policy, port security, backup strategy)
 - Technical documentation writing
 - Cost estimation / bill of materials
-- Presentation design
 
 ## Author
 
