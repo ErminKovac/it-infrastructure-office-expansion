@@ -1,4 +1,4 @@
-# IT Infrastructure Plan — Office Space Expansion
+# IT Infrastructure Plan - Office Space Expansion
 
 A complete IT infrastructure design produced from a single architectural floor plan, as part of a
 practical technical assessment for an IT Administrator role. Given only the floor plan for 5 new
